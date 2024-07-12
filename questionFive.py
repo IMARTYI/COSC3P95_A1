@@ -1,5 +1,4 @@
-#David Martin
-#6995948
+
 import random
 import string
 
