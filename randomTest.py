@@ -1,5 +1,4 @@
-# David Martin
-# 6995948
+
 
 import math
 import random
